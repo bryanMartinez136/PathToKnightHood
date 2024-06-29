@@ -32,5 +32,17 @@ namespace LeetCodeDailyTests
             Assert.That(GrumpyBoss.MaxSatisfied(test_customers_2, grumpy_2, 5), Is.EqualTo(15));
             Assert.That(GrumpyBoss.MaxSatisfied(test_customers_3, grumpy_3, 1), Is.EqualTo(79));
         }
+
+        [Test, Description("1438.")]
+        public void LongestContigSubArray()
+        {
+            int[] nums = { 8, 2, 4, 7 };
+            int[] nums2 = [4, 2, 2, 2, 4, 4, 2, 2];
+            int[] nums3 = [1, 5, 6, 7, 8, 10, 6, 5, 6];
+            Assert.That(ContigSubArrayWithDiffLessThanLimit.LongestSubarray(nums, 4), Is.EqualTo(2));
+            Assert.That(ContigSubArrayWithDiffLessThanLimit.LongestSubarray(nums2, 0), Is.EqualTo(3));
+            Assert.That(ContigSubArrayWithDiffLessThanLimit.LongestSubarray(nums3, 4), Is.EqualTo(5));
+
+        }
     }
 }
