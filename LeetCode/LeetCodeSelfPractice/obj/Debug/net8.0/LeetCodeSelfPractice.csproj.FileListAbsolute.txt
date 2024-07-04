@@ -1,0 +1,15 @@
+C:\Users\mbrya\OneDrive\Desktop\bry.com\PathToKnightHood\LeetCode\LeetCodeSelfPractice\obj\Debug\net8.0\LeetCodeSelfPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbrya\OneDrive\Desktop\bry.com\PathToKnightHood\LeetCode\LeetCodeSelfPractice\obj\Debug\net8.0\LeetCodeSelfPractice.AssemblyInfoInputs.cache
+C:\Users\mbrya\OneDrive\Desktop\bry.com\PathToKnightHood\LeetCode\LeetCodeSelfPractice\obj\Debug\net8.0\LeetCodeSelfPractice.AssemblyInfo.cs
+C:\Users\mbrya\OneDrive\Desktop\bry.com\PathToKnightHood\LeetCode\LeetCodeSelfPractice\obj\Debug\net8.0\LeetCodeSelfPractice.csproj.CoreCompileInputs.cache
+C:\Users\mbrya\OneDrive\Desktop\bry.com\PathToKnightHood\LeetCode\LeetCodeSelfPractice\obj\Debug\net8.0\LeetCodeSelfPractice.sourcelink.json
+C:\Users\mbrya\OneDrive\Desktop\bry.com\PathToKnightHood\LeetCode\LeetCodeSelfPractice\bin\Debug\net8.0\LeetCodeSelfPractice.exe
+C:\Users\mbrya\OneDrive\Desktop\bry.com\PathToKnightHood\LeetCode\LeetCodeSelfPractice\bin\Debug\net8.0\LeetCodeSelfPractice.deps.json
+C:\Users\mbrya\OneDrive\Desktop\bry.com\PathToKnightHood\LeetCode\LeetCodeSelfPractice\bin\Debug\net8.0\LeetCodeSelfPractice.runtimeconfig.json
+C:\Users\mbrya\OneDrive\Desktop\bry.com\PathToKnightHood\LeetCode\LeetCodeSelfPractice\bin\Debug\net8.0\LeetCodeSelfPractice.dll
+C:\Users\mbrya\OneDrive\Desktop\bry.com\PathToKnightHood\LeetCode\LeetCodeSelfPractice\bin\Debug\net8.0\LeetCodeSelfPractice.pdb
+C:\Users\mbrya\OneDrive\Desktop\bry.com\PathToKnightHood\LeetCode\LeetCodeSelfPractice\obj\Debug\net8.0\LeetCodeSelfPractice.dll
+C:\Users\mbrya\OneDrive\Desktop\bry.com\PathToKnightHood\LeetCode\LeetCodeSelfPractice\obj\Debug\net8.0\refint\LeetCodeSelfPractice.dll
+C:\Users\mbrya\OneDrive\Desktop\bry.com\PathToKnightHood\LeetCode\LeetCodeSelfPractice\obj\Debug\net8.0\LeetCodeSelfPractice.pdb
+C:\Users\mbrya\OneDrive\Desktop\bry.com\PathToKnightHood\LeetCode\LeetCodeSelfPractice\obj\Debug\net8.0\LeetCodeSelfPractice.genruntimeconfig.cache
+C:\Users\mbrya\OneDrive\Desktop\bry.com\PathToKnightHood\LeetCode\LeetCodeSelfPractice\obj\Debug\net8.0\ref\LeetCodeSelfPractice.dll
