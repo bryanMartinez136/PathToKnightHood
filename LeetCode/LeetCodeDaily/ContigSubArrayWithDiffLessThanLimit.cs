@@ -4,7 +4,6 @@
 of the longest non-empty subarray such that the absolute difference 
 between any two elements of this subarray is less than or equal to limit.
 */
-using System.ComponentModel.DataAnnotations;
 
 namespace LeetCodeDaily
 {

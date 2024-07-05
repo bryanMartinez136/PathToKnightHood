@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include = "C:\Users\mbrya\OneDrive\Desktop\bry.com\PathToKnightHood\LeetCode\LeetCodeDaily\LeetCodeDaily.csproj"/>
+    <ProjectReference Include="C:\Users\mbrya\OneDrive\Desktop\bry.com\PathToKnightHood\LeetCode\LeetCodeDaily\LeetCodeDaily.csproj"/>
     <PackageReference Include="coverlet.collector" Version="6.0.0" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
     <PackageReference Include="NUnit" Version="3.14.0" />
