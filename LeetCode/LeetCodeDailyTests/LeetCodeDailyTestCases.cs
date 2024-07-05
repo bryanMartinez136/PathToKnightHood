@@ -48,5 +48,26 @@ namespace LeetCodeDailyTests
             Assert.That(head.ToArray(), Is.EqualTo(new int[] { 4, 11 }));
             Assert.That(head2.ToArray(), Is.EqualTo(new int[] { 1, 3, 4 }));
         }
+
+
+        [Test, Description("LC-2128")]
+        public void NodesBetweenCriticalPointsTest()
+        {
+            ListNode head1 = new ListNode(3);
+            ListNode head2 = new ListNode(5);
+            ListNode head3 = new ListNode(1);
+            var head1_vals = new int[] { 1 };
+            var head2_vals = new int[] { 3, 1, 2, 5, 1, 2 };
+            var head3_vals = new int[] { 3, 2, 2, 3, 2, 2, 2, 7 };
+            head1.AddValues(head1_vals);
+            head2.AddValues(head2_vals);
+            head3.AddValues(head3_vals);
+            var arr1 = MinAndMaxNodesBetweenCritPoints.NodesBetweenCriticalPoints(head1);
+            var arr2 = MinAndMaxNodesBetweenCritPoints.NodesBetweenCriticalPoints(head2);
+            var arr3 = MinAndMaxNodesBetweenCritPoints.NodesBetweenCriticalPoints(head3);
+            Assert.That(arr1, Is.EqualTo(new int[] { -1, -1 }));
+            Assert.That(arr2, Is.EqualTo(new int[] { 1, 3 }));
+            Assert.That(arr3, Is.EqualTo(new int[] { 3, 3 }));
+        }
     }
 }

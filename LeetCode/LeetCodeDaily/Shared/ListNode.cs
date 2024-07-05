@@ -28,6 +28,16 @@ namespace LeetCodeDaily
             }
             return array;
         }
+
+        public void AddValues(int[] array)
+        {
+            var head = this;
+            for (int i = 0; i < array.Length; i++)
+            {
+                head.next = new ListNode(array[i]);
+                head = head.next;
+            }
+        }
     }
 
 }
