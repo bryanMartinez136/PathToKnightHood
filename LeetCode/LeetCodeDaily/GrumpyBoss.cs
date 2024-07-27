@@ -21,13 +21,6 @@ namespace LeetCodeDaily
     */
     public class GrumpyBoss
     {
-        public static void Main()
-        {
-            int[] customer = { 1, 2, 3, 4, 5 };
-            int[] grumpy = { 1, 0, 1, 1, 0 };
-            Console.WriteLine(MaxSatisfied(customer, grumpy, 3));
-        }
-
         public static int MaxSatisfied(int[] customers, int[] grumpy, int minutes)
         {
             // current sum = min_possible_customers + unsatisfied_customers_withing_window
